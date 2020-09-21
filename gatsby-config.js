@@ -62,7 +62,7 @@ module.exports = {
         background_color: '#F6D98E',
         theme_color: '#3B4566',
         display: 'minimal-ui',
-        icon: 'src/images/tameto-icon.png', // This path is relative to the root of the site.
+        icon: 'src/images/favicon.ico', // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
